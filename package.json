@@ -1,6 +1,6 @@
 {
   "name": "flash-component-scripts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "flash for component script",
   "bin": {
     "flash-component-scripts": "./index.js"
@@ -58,6 +58,6 @@
     "whatwg-fetch": "2.0.3"
   },
   "homepage": "https://github.com/water-wheel/flash-scripts#readme",
-  "_from": "flash-scripts@0.0.1",
-  "_resolved": "http://registry.npm.taobao.org/flash-scripts/download/flash-scripts-0.0.1.tgz"
+  "_from": "flash-scripts@0.0.2",
+  "_resolved": "http://registry.npm.taobao.org/flash-scripts/download/flash-scripts-0.0.2.tgz"
 }

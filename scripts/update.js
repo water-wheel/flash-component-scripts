@@ -8,4 +8,4 @@ const exec = require('child_process').exec;
 process.env.BABEL_ENV = 'development';
 
 
-exec('cd ./src/scss_mixin/ && git pull origin master');
+// exec('cd ./src/scss_mixin/ && git pull origin master');
